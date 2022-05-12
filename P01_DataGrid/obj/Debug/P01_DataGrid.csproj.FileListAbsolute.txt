@@ -1,0 +1,14 @@
+C:\Users\justi\Desktop\P01_DataGrid\P01_DataGrid\bin\Debug\P01_DataGrid.exe.config
+C:\Users\justi\Desktop\P01_DataGrid\P01_DataGrid\bin\Debug\P01_DataGrid.exe
+C:\Users\justi\Desktop\P01_DataGrid\P01_DataGrid\bin\Debug\P01_DataGrid.pdb
+C:\Users\justi\Desktop\P01_DataGrid\P01_DataGrid\obj\Debug\P01_DataGrid.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\P01_DataGrid\P01_DataGrid\obj\Debug\P01_DataGrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\justi\Desktop\P01_DataGrid\P01_DataGrid\obj\Debug\P01_DataGrid.frmMenu.resources
+C:\Users\justi\Desktop\P01_DataGrid\P01_DataGrid\obj\Debug\P01_DataGrid.frmStudents.resources
+C:\Users\justi\Desktop\P01_DataGrid\P01_DataGrid\obj\Debug\P01_DataGrid.Properties.Resources.resources
+C:\Users\justi\Desktop\P01_DataGrid\P01_DataGrid\obj\Debug\P01_DataGrid.csproj.GenerateResource.cache
+C:\Users\justi\Desktop\P01_DataGrid\P01_DataGrid\obj\Debug\P01_DataGrid.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\P01_DataGrid\P01_DataGrid\obj\Debug\P01_DataGrid.exe
+C:\Users\justi\Desktop\P01_DataGrid\P01_DataGrid\obj\Debug\P01_DataGrid.pdb
+C:\Users\justi\Desktop\P01_DataGrid\P01_DataGrid\obj\Debug\P01_DataGrid.frmBooks.resources
+C:\Users\justi\Desktop\P01_DataGrid\P01_DataGrid\obj\Debug\P01_DataGrid.frmCOURSES.resources
